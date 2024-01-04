@@ -1,4 +1,5 @@
-// turn on `vscode-import-cost` and compare this:
+// turn on `vscode-import-cost` 
+// and compare this:
 import { kebabCase } from "lodash"
 // to this:
 import kebabCase_ from "lodash/kebabCase"
